@@ -4,21 +4,7 @@
  
   
   ## Description 
-
-  ## Table of Contents
-  * [Installation](#installation)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
-  * [Routes](#routes)
-  * [Landing Page](#landing-page)
-  * [Heroku](#heroku)
-  * [Credits](#credits)
-  * [Questions](#questions)
-  
-  ## Installation 
-  
-  
-
+  Just Another Text Editor is a a note-taking progressive web app both online and on a user's local machine. Click the install button on the top left corner to download the application and take notes!
   
   ## Tests
 
